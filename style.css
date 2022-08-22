@@ -71,8 +71,6 @@ h1{
 
 .modal{
     width: 100vw;
-    height: 100vh;
-    overflow: hidden;
     position: absolute;
     top: 0;
     z-index: 1;
@@ -93,8 +91,8 @@ h1{
 .ikonica{
     font-size: 2rem;
     position: absolute;
-    left: 90%;
-    top: 5%;
+    left: 95%;
+    top: 2%;
     cursor: pointer;
 }
 
